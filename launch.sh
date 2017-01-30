@@ -138,3 +138,4 @@ else
    echo -e "\e[36m"
   ./tg/bin/telegram-cli -k ./tg/tg-server.pub -s ./bot/Devkisr.lua -l 1 -E $@
 fi
+---by..TeleSpeed..تم التثبيت!
