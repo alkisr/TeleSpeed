@@ -14,7 +14,7 @@ do
 local function run(msg, matches) 
 if ( msg.text ) then
   if ( msg.to.type == "user" ) then
-     return "- Welcome to DevPoint !\n\n- For More Information Subscribe in \n\n- Channel : @DevPointTeam"
+     return "اهلا بك ☺~ " ..msg.from.first_name..'..\n لطلب البوت تحدث مع المطور\n <b>usernam :</b> @Dev_KiSR"
     end 
   end 
 end 
